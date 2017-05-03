@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+
+#tabla1 {
+    width:10%; 
+    border: 3px solid rgb(128, 0, 128);
+}
+
+table.tablilla {
+    width:85%; 
+    border: 7px solid rgb(0, 0, 255);
+}
+
+.tablilla th, .tablilla td{
+    border: 7px solid rgb(0, 128, 0);
+}
+
+.bla {
+	color: blue;
+}
+
+div {
+	color: #ff0000;
+	border: 1px solid;
+	border-color: #808000;
+	background-color: #FFFF00
+}
+
+.encabezadoGris {
+	color: #808080;
+	margin-left: 30px;
+}
+
+.bordeVerde {
+	border: 1px solid rgb(0, 128, 0);
+}
+
+input:checked {
+	width: 50%;
+	height: 50%;
+}
